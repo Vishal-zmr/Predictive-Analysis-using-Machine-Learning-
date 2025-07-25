@@ -32,3 +32,6 @@ Overall, this task enhanced my understanding of **supervised machine learning wo
 
 Through this task, I strengthened my ability to handle **classification problems, feature engineering, and interpreting model evaluation metrics** effectively. This practical exposure will help me build more complex models confidently in upcoming tasks and professional projects.
 
+#output
+
+<img width="530" height="455" alt="Image" src="https://github.com/user-attachments/assets/396bfb12-7860-4b5b-b20d-382049a7ed76" />
