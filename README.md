@@ -1,4 +1,4 @@
-# Predictive-Analysis-using-Machine-Learning-
+# Predictive-Analysis-using-Machine-Learning
 
 COMPANY: CODTECH IT SOLUTIONS
 
